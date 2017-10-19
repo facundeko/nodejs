@@ -37,7 +37,7 @@ function clearDate(date) {
 }
 
 var colors = [ 'red', 'sienna', 'blue', 'magenta', 'purple', 'yellow', 'orange', 'silver', 'green', 'black' ];
-colors.sort(function(a,b) { return Math.random() > 0.75; } );
+colors.sort(function(a,b) { return Math.random() > 0.5; } );
 
 var server = http.createServer(function(request, response) {});
 server.listen(webSocketsServerPort, function() {
