@@ -1,0 +1,17 @@
+{
+  "name": "FJG",
+  "email": "fjacksongalvan@gmail.com",
+  "description": "NodeJS service, websocket-oriented",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "websocket": "^1.0.25"
+  },
+  "devDependencies": {
+    "tap-spec": "^4.1.1",
+    "tape": "^4.8.0"
+  }
+}
