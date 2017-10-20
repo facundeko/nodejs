@@ -18,7 +18,7 @@ To start the server, just execute the next command
 ``` 
 node server.js
 ```
-and, after seeing the result in the console, open the provided html file.
+and, after seeing the result in the console, open the provided html file to see it working.
 	
 ## License 
 
